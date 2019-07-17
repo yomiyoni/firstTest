@@ -3,6 +3,7 @@
 # firstTest2
 ghghghghghghghghghghgh
 ㅁㄴㅇㄹㅁㅇㄹㅁㄴㅇㄹㅁㄴㅇㄹㅁㄴㅇㄹ
+<<<<<<< HEAD
 
 gkgkasdfaksjdflaksjdlfkjalsdkfj
 asdf
@@ -11,3 +12,10 @@ fa
 sdfddddd
 # firstTest3
 dddddd
+=======
+# firstTest3
+aaaaaaaaaaaa
+a
+a
+adfasdfadfadsfadsf
+>>>>>>> origin
